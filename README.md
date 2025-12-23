@@ -1,4 +1,4 @@
-# Task [X]: [Task Name]
+# Task 6: Rock Paper Scissors
 
 *Student:* Aydın Məmmədli 
 *ID:* S215  
